@@ -134,9 +134,7 @@ const CreatePoint: React.FC = () => {
 
     await api.post('/points',data)
 
-    alert('Ponto de coleta Criado')
-
-    history.push('/')
+    history.push('/success')
     
   }
 
