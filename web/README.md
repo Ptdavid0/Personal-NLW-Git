@@ -44,3 +44,14 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 -> Limpar o arquivo
+-> index.html -> index.tsx -> App.tsx -> Componentes
+-> NPM Install utilizados:
+❯ npm i react-icons  
+❯ npm i @types/react -D
+❯ npm i @types/react-dom -D
+❯ npm i react-router-dom   
+❯ npm i @types/react-router-dom -D
+❯ npm i leaflet react-leaflet  
+❯ npm install @types/react-leaflet -D
+❯ npm install axios
+
