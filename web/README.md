@@ -54,4 +54,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ❯ npm i leaflet react-leaflet  
 ❯ npm install @types/react-leaflet -D
 ❯ npm install axios
+❯ npm install react-dropzone 
 
